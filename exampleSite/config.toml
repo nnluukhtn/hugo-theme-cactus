@@ -56,6 +56,9 @@ weight = 4
 
   # Post page settings
   show_updated = false # default
+  show_updated = false # default
+
+  article_gallery = false # default
 
   [params.comments]
     enabled = false # default
